@@ -1,0 +1,27 @@
+_repo: The-Junior-Classics-Volume-3-Tales-from-Greece-and-Rome_56887
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Patten, William
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '1118'
+    url: http://www.gutenberg.org/2009/agents/1118
+description: ''
+gutenberg_issued: '2018-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Junior Classics, Volume 3: Tales from Greece and Rome'
+url: http://www.gutenberg.org/ebooks/56887
